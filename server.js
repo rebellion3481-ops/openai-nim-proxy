@@ -30,7 +30,6 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking'
   'nemotron': 'nvidia/nemotron-3-ultra-550b-a55b'
- 
 };
 
 // Health check endpoint
